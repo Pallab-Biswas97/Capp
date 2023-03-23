@@ -76,7 +76,18 @@ const Home = () => {
             <div className="divs"></div>
           </li>
           <li className="lists">
-            <div className="list_item">Cloud Framework</div>
+            <div className="list_item">
+            <div className="dropdown">
+                <div className="dropbtn">Cloud Framework</div>
+                <div className="dropdown_content">
+                  <a href="#">Link 1</a>
+                  <a href="#">Link 2</a>
+                  <a href="#">Link 3</a>
+                  <a href="#">Link 3</a>
+                  <a href="#">Link 3</a>
+                </div>
+              </div>
+            </div>
             <div className="divs"></div>
           </li>
           <li className="lists">
