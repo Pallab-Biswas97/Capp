@@ -169,7 +169,7 @@ const Home = () => {
         <Team />
       </div>
 
-      <div className="chatbot fixed-bottom">
+      <div className="chatbot">
         <Chatbot />
       </div>
     </>
